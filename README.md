@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About-Me
+✨ My name is Wong Horng Jun I'm a Malaysian student currently studying Software Engineering in Asia Pacific University (APU), Passionate on web designs, developing and building.
+
+📫 Reach Me:
+- hj.wong02@gmail.com
+- https://www.linkedin.com/in/june0408
+- https://horngjun.netlify.app
