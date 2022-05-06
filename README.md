@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 &nbsp;&nbsp;
-[![linkedIn]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg")]()
+[![linkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg)]()
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
