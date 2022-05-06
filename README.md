@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello There 👋 , You Can Call me June!
+### Hello There 👋 , You Can Call me June!
 
 ## I'm a Student, Junior Programmer, and Gamer!
 ✨ My name is Wong Horng Jun I'm a Malaysian student currently studying Software Engineering in Asia Pacific University (APU), Passionate on web designs, developing and building.
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;" />](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
