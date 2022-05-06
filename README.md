@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/june0408/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26px" /></a>
-          
+
+<a href="https://www.facebook.com/wong.horngjun/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="26px" /></a>
 <br>
 
 ### Languages and Tools:
