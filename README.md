@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
-<a href="https://www.linkedin.com/in/june0408/" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26px" style="padding-right:10px;"/></a>
+<a href="https://www.linkedin.com/in/june0408/" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26px" /></a>
           
 <br>
 
