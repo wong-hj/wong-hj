@@ -28,14 +28,9 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
-<!-- &nbsp;&nbsp; -->
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="26px" style="padding-right:10px;">
-<!-- [![linkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg)]()
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26px" style="padding-right:10px;"/>
+          
+<br>
 
 ### Languages and Tools:
 
