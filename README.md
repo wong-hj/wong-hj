@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 &nbsp;&nbsp;
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;" />](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
