@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hello There 👋 , You Can Call me June!
 
 ## I'm a Student, Junior Programmer, and Gamer!
-✨ My name is Wong Horng Jun I'm a Malaysian student currently studying Software Engineering in Asia Pacific University (APU), Passionate on web designs, developing and building.
+✨ My name is Wong Horng Jun I'm a Malaysian student currently studying Information Technology Specialism in Mobile Technology in Asia Pacific University (APU), Passionate on web designs, developing and building.
 
 📫 Reach Me:
 - hj.wong02@gmail.com
